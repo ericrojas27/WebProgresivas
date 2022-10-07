@@ -1,0 +1,17 @@
+{
+    "name": "Pagina WP Eric",
+    "short_name": "Pagina WP Eric",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./icono.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
